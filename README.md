@@ -55,5 +55,6 @@ See [LICENSE.txt](LICENSE.txt) for details.
 ## 🔗 Links
 
 - 📥 [Download latest release](../../releases)
-- 📧 Contact: [Your email or website here]
+- 📧 Contact: +20 10 18161934
+
 
