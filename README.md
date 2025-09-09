@@ -1,3 +1,5 @@
+![Passport Photo Studio Banner](banner.png)
+
 # Passport Photo Studio — Mogmaa El Tahrir
 
 A desktop application for creating compliant passport photos quickly and easily.  
@@ -54,3 +56,4 @@ See [LICENSE.txt](LICENSE.txt) for details.
 
 - 📥 [Download latest release](../../releases)
 - 📧 Contact: [Your email or website here]
+
